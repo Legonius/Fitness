@@ -20,3 +20,4 @@ Fitness Application with React in Typescript and Tailwind for styles.
 - install vite@latest in typescript templete
 - install dependencies
 - make paths config in vite config and tsconfig.
+- install tailwind , postcss and configure both of it.
