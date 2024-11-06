@@ -14,3 +14,9 @@ Fitness Application with React in Typescript and Tailwind for styles.
 - as Dependencies
   - @types/react-anchor-link-smooth-scroll@1.0.2 (as dependency)
   - @types/node (for directing path modules)
+
+# Configurations
+
+- install vite@latest in typescript templete
+- install dependencies
+- make paths config in vite config and tsconfig.
